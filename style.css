@@ -1,0 +1,45 @@
+body{
+    font-size: xx-large;
+    font-family: "Ga Maamli", sans-serif;
+}
+
+#mysubmit{
+    font-size: 1em;
+}
+
+.container {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-check {
+    margin-right: 10px;
+  }
+  
+  .form-label {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .btn-submit {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn-submit:hover {
+    background-color: #3e8e41;
+  }
+  
